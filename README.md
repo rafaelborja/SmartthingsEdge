@@ -19,6 +19,9 @@ thermostatFanMode
     • followschedule - The fan is set to follow predefined schedule
     • on - The fan is on
 
+manufacturer: King Of Fans, Inc.
+model: HDC52EastwindFan
+
 
 DisplayTypes
     list

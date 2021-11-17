@@ -32,6 +32,6 @@ zigbeeManufacturer:
   #IKEA of Sweden
   - id: "OSRAM/TRADFRI wireless dimmer"
     deviceLabel: "OSRAM"
-    manufacturer: LIGHTIFY Dimming Switch
+    manufacturer: OSRAM
     model: LIGHTIFY Dimming Switch
     deviceProfileName: switch-battery-level
