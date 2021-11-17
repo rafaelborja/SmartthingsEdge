@@ -23,7 +23,7 @@ local zigbee_dimmer_remote_driver_template = {
         capabilities.switch,
         capabilities.switchLevel
     },
-    sub_drivers = { require("zigbee-accessory-dimmer"), require("zigbee-battery-accessory-dimmer")}
+    sub_drivers = { require("zigbee-accessory-dimmer")}
 }
 
 defaults.register_for_default_handlers(zigbee_dimmer_remote_driver_template, zigbee_dimmer_remote_driver_template.supported_capabilities)

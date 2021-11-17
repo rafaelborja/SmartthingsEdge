@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "Tuya/Smart Air"
+    deviceLabel: Tuya Smart Air
+    model: TS0601
+    manufacturer: _TZE200_yvx5lh6k
+    deviceProfileName: humidity-temperature

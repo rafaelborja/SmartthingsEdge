@@ -1,0 +1,7 @@
+zigbeeManufacturer:
+  #Aurora
+  - id: "Lutron/Z3-1BRL"
+    deviceLabel: "Lutron Z3-1BRL Dimmer"
+    manufacturer: Lutron
+    model: Z3-1BRL
+    deviceProfileName: switch-level-button
