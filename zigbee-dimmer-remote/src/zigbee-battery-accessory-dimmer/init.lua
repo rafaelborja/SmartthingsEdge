@@ -30,7 +30,8 @@ local DOUBLE_STEP = 10
 local ZIGBEE_BATTERY_ACCESSORY_DIMMER_FINGERPRINTS = {
   { mfr = "sengled", model = "E1E-G7F" },
   { mfr = "IKEA of Sweden", model = "TRADFRI wireless dimmer" },
-  { mfr = "Centralite Systems", model = "3131-G" }
+  { mfr = "Centralite Systems", model = "3131-G" },
+  { mfr = "OSRAM", model = "LIGHTIFY Dimming Switch" }
 }
 
 local generate_switch_level_event = function(device, value)
