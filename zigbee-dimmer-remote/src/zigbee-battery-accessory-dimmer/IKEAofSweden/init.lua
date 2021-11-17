@@ -21,8 +21,7 @@ local DEFAULT_LEVEL = 100
 local DOUBLE_STEP = 10
 
 local IKEA_OF_SWEDEN_FINGERPRINTS = {
-  { mfr = "IKEA of Sweden", model = "TRADFRI wireless dimmer" },
-  { mfr = "OSRAM", model = "LIGHTIFY Dimming Switch" }
+  { mfr = "IKEA of Sweden", model = "TRADFRI wireless dimmer" }
 }
 
 local generate_switch_level_event = function(device, value)

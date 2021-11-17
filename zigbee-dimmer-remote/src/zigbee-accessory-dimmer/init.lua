@@ -32,6 +32,8 @@ local STEP = 10
 local ZIGBEE_ACCESSORY_DIMMER_FINGERPRINTS = {
     { mfr = "Aurora", model = "Remote50AU" },
     { mfr = "LDS", model = "ZBT-DIMController-D0800" }
+    { mfr = "OSRAM", model = "LIGHTIFY Dimming Switch" }
+    { mfr = "Lutron", model = "Z3-1BRL" }
 }
 
 local generate_switch_onoff_event = function(device, value)
