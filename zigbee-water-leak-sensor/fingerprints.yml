@@ -29,6 +29,8 @@ zigbeeManufacturer:
     manufacturer: Sinope Technologies
     model: WL4200S
     deviceProfileName: water-temp-battery
+# SmartThings Water Leak Sensor
+# Support battery status
   - id: "SmartThings/moisturev4"
     deviceLabel: SmartThings Water Leak Sensor
     manufacturer: SmartThings
