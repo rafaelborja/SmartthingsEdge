@@ -1,0 +1,6 @@
+name: 'Osram LIGHTIFY Dimming Switch'
+packageKey: 'Osram-LIGHTIFY-Dimming-Switch'
+descritption: 'Osram LIGHTIFY Dimming Switch'
+
+permissions:
+  zigbee: {}

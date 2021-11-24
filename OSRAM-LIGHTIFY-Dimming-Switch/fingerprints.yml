@@ -1,0 +1,7 @@
+zigbeeManufacturer:
+  - id: "OSRAM/LIGHTIFY Dimming Switch"
+    deviceLabel: "OSRAM LIGHTIFY Dimming Switch"
+    manufacturer: OSRAM
+    model: LIGHTIFY Dimming Switch
+    deviceProfileName: switch-level-button
+# switch-level-button
